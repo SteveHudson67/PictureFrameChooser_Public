@@ -177,6 +177,4 @@ Contributions, feedback, and feature suggestions are very welcome!
 ---
 
 ## 📄 License
-
-## 📄 License
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
